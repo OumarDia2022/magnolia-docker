@@ -16,6 +16,8 @@ Pull and run the container:
 See: 
 [magnolia-sre/magnolia-docker Packages](https://github.com/orgs/magnolia-sre/packages/container/package/magnolia-docker%2Fmagnolia-docker)
 
+Default login username and password: superuser/superuser
+
 ## CI/CD
 
 Refer to the [pipeline](.github/workflows/pipeline.yml) for more insights.
