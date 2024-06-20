@@ -18,6 +18,8 @@ See:
 
 Default login username and password: superuser/superuser
 
+It should be noted that Docker is no longer officially supported.
+
 ## CI/CD
 
 Refer to the [pipeline](.github/workflows/pipeline.yml) for more insights.
